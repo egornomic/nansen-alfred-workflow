@@ -3,6 +3,7 @@ Nansen.ai workflow for alfredapp.com
 
 ## Installation
 To use this workflow you need [Alfred](https://www.alfredapp.com/). Then open the workflow file in the app and you are done.
+![](https://raw.githubusercontent.com/exegor/nansen-alfred-workflow/main/schema.png)
 
 ## Usage
 Open Alfred and type action keyword and address.
